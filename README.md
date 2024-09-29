@@ -1,4 +1,4 @@
-# PortfolioWebsite
+# Portfolio Website
 Project: Personal Portfolio Website
 
 Description:
@@ -14,7 +14,8 @@ Getting Started:
 
 Clone the Repository:
 Bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/AmitDhangarsCodeverse/portfolio-website.git
+
 Use code with caution.
 
 Open in a Code Editor: Open the cloned repository in your preferred code editor.
@@ -36,6 +37,7 @@ Accessibility: Consider accessibility best practices to make your website usable
 SEO: Optimize your website for search engines using relevant keywords and meta tags.
 Version Control: Use Git to track changes and collaborate with others.
 
+Media:
 
 ![Screenshot 2024-09-23 224823](https://github.com/user-attachments/assets/6dcd99e7-9148-4b11-ba77-84867e8a3779)
 
